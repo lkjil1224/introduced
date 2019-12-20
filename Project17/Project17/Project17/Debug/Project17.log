@@ -1,0 +1,3 @@
+﻿  소스.cpp
+c:\users\kji14\onedrive\바탕 화면\project17\project17\project17\소스.cpp(27): warning C4091: 'typedef ': 변수를 선언하지 않으면 'PersonCard' 왼쪽은 무시됩니다.
+  Project17.vcxproj -> C:\Users\kji14\OneDrive\바탕 화면\Project17\Project17\Debug\Project17.exe
